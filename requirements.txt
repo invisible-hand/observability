@@ -1,0 +1,11 @@
+langchain
+openai
+pydantic
+python-dotenv
+reportlab
+streamlit
+langchain_community
+langgraph
+numexpr
+phoenix-eval
+langchain-openai
